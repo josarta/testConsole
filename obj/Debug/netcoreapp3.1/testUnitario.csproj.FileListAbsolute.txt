@@ -1,0 +1,13 @@
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.exe
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.deps.json
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.runtimeconfig.json
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.runtimeconfig.dev.json
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.dll
+C:\Users\Josarta\Desktop\C#\testUnitario\bin\Debug\netcoreapp3.1\testUnitario.pdb
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.csprojAssemblyReference.cache
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.AssemblyInfoInputs.cache
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.AssemblyInfo.cs
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.dll
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.pdb
+C:\Users\Josarta\Desktop\C#\testUnitario\obj\Debug\netcoreapp3.1\testUnitario.genruntimeconfig.cache
